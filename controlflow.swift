@@ -10,6 +10,6 @@ let approximateCount = 62
 let countedThings = "moons orbiting Saturn"
 var naturalCount: String
 
-switch approximateCount {
-
-}
+//switch approximateCount {
+//
+//}
