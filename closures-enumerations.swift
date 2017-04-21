@@ -57,3 +57,15 @@ print(incrementByTen())
 //returns value 20
 print(incrementByTen())
 //returns value 30
+
+enum Planet: Int {
+    case mercury, venus, earth
+}
+
+print(Planet.venus.rawValue)
+
+enum Planets: String {
+    case mercury, venus, earth
+}
+
+print(Planets.venus.rawValue)
